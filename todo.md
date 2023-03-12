@@ -11,6 +11,10 @@
 - Do cleaning based on findings of first eda
     - ~~Remove ['deleted'] user from data
     - ~~Remove subreddits with less than 10 comments
+- Do Cleaning based on results of simple model
+    - Step 1: Remove ['deleted'] comments
+    - Step 2: Remove users with less than 2 interactions
+    - *Step 3: Remove Subreeddits with less than 10 comments*
     
 - Create a directory Structure for keeping cleaned trasformed and raw data - 
     - external       <- Data from third party sources.
@@ -26,7 +30,7 @@
 - Come up with a plan to trim the userbase and subreddits based on the EDA
 
 - Write an procedure to evaluate a recommender model
-
+    - Train test split stategy 
 - Create a script to find the data summary
 - Create script to decode data
    
