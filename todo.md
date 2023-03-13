@@ -36,6 +36,9 @@
    
 - cookiecut from the repo - https://github.com/drivendata/cookiecutter-data-science 
 
+- Clean the 3.0 notebook for readability purposes
+- 
+
 
     
 
