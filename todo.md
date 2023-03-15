@@ -3,10 +3,10 @@
 - ~~Do eda of the single chunk of data
     - ~~What are the most popular subreddits?~~
     - ~~Which users are most active?~
-    - ~~How many users are there?~
-    - ~~How many subreddits are there?
-    - ~~What is the distribution of unique commentors per subreddit?
-    - ~~What is the distribution of number of comments a user has made to different subreddit?
+    - ~~How many users are there?~~
+    - ~~How many subreddits are there?~~
+    - ~~What is the distribution of unique commentors per subreddit?~~
+    - ~~What is the distribution of number of comments a user has made to different subreddit?~~
 
 - Do cleaning based on findings of first eda
     - ~~Remove ['deleted'] user from data
@@ -30,9 +30,11 @@
 - Come up with a plan to trim the userbase and subreddits based on the EDA
 
 - Write an procedure to evaluate a recommender model
-    - Train test split stategy 
+    - ~~Train test split stategy leave one out strategy ~~
 - Create a script to find the data summary
-- Create script to decode data
+- Create script to decode data ??
+- Naive Eval
+- Different Evaluation Metrics
    
 - cookiecut from the repo - https://github.com/drivendata/cookiecutter-data-science 
 
