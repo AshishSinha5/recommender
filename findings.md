@@ -6,5 +6,6 @@
 - Remove subreddits with less than 10 comments
 - Remove users with few comments instead 
 - 500k contiguous points are not sufficient for chronological split, need to sample data from different days for chronological split
+- pandas is too ineffitient to be run for reddit data need to implement sparse repr 
 
 
